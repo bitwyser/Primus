@@ -87,3 +87,7 @@ Other / Infrastructure:
 - Buffer Overflow (Native code, Android NDK)
 - Format String Attack (Legacy or native components)
 - Account Takeover
+
+----
+
+Defacement
